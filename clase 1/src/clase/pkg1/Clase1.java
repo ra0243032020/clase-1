@@ -16,7 +16,17 @@ public class Clase1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+//      practica del video de poo
+        
         System.out.println("HOLA GITHUB");
+        
+        funcionesMatematicasSumas Funciones = new funcionesMatematicasSumas();
+        
+        System.out.println(Funciones.divicion());
+        
     }
+    
+      
     
 }
